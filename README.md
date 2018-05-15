@@ -1,2 +1,2 @@
-# colorimetric_sensing_demo
-Project (on nRF51) to measure presence of analytes in fluid through optical and chemical sensing: (photodiodes/LEDs to measure colorimetric output). 
+# Colorometric Chemical Sensing
+A system (built on the nRF51) that measures the concentration of chemical biomarkers in urine/blood through colorometric sensing. The goal is to build a sensor that accurately and repeatably translates a color curve (produced by a chemical reaction, E.G. ELISA assay) into the concentration of the target particle.  The system uses RGB LEDs and photodiodes to monitor the color curves, and estimate the particle concentration. 
