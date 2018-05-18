@@ -4,8 +4,9 @@ The goal of the system is to passively detect biomarkers in urine while the pati
 
 We implemented the system on the [nRF51](http://infocenter.nordicsemi.com/pdf/nRF51822_PS_v3.1.pdf). And, for an ADC, we implemented the [LTC2492](http://www.analog.com/media/en/technical-documentation/data-sheets/2492fe.pdf). To offload raw data, we used a UART protocol. 
   
+In this repo, we only included the C code on the processor, and not the offlie scripts used to process the collected data. 
   
-**Project Status**: W built a proof-of-concept for the system. Specifcally, we built a physical prototype to process solutions (not urine yet). And, we demonstrated the ability of the colorimetric sensing system to estimate concentration from the color curve (not with urine). More work is needed to demonstrate the functionality of the system with urine. 
+**Project Status**: W built a proof-of-concept for the system. Specifcally, we built a physical prototype to process solutions (not urine yet). And, we demonstrated the ability of the colorimetric sensing system to estimate concentration from the color curve (not with urine). More work is needed to demonstrate the functionality of the system with urine, and to further characterize the system. 
 
 ## Some Images
 Here are a few images to help visualize the system. 
