@@ -7,13 +7,13 @@ We implemented the system on the [nRF51](http://infocenter.nordicsemi.com/pdf/nR
 Figures Below: Different diagrams of the system. 
 <div>
   <div>
-    <img src="https://github.com/SidneyPrimas/Colorimetric_Chemical_Sensing/blob/master/diagram_device.png" alt="CoverImage1" style="width:100%" width="300">
+    <img src="https://github.com/SidneyPrimas/Colorimetric_Chemical_Sensing/blob/master/diagram_device.png" alt="CoverImage1" style="width:100%" width="250">
   </div>
   <div>
-    <img src="https://github.com/SidneyPrimas/Colorimetric_Chemical_Sensing/blob/master/diagram_capsule.png" alt="CoverImage2" style="width:100%" width="300">
+    <img src="https://github.com/SidneyPrimas/Colorimetric_Chemical_Sensing/blob/master/diagram_capsule.png" alt="CoverImage2" style="width:100%" width="250">
   </div>
   <div>
-    <img src="https://github.com/SidneyPrimas/Colorimetric_Chemical_Sensing/blob/master/diagram_capsule.png" alt="CoverImage2" style="width:100%" width="300">
+    <img src="https://github.com/SidneyPrimas/Colorimetric_Chemical_Sensing/blob/master/diagram_real_capsule.png" alt="CoverImage2" style="width:100%" width="250">
   </div>
 </div>  
   
